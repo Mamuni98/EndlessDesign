@@ -1,0 +1,14 @@
+.app {
+    margin: 2rem auto;
+    width: 30rem;
+    padding: 0.7rem;
+    background: rgba(230, 227, 227, 0.667);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .app h1 {
+    margin: 0;
+    text-align: left;
+  }
